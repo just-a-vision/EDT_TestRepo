@@ -37,5 +37,6 @@
   <commonModules>CommonModule.ДФИ</commonModules>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.ЕдиницаИзмерения</catalogs>
+  <catalogs>Catalog.Контрагенты</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
 </mdclass:Configuration>
